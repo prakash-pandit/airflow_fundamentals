@@ -13,3 +13,8 @@ astro dev start
 ```
 Changing airflow version by editing Dockerfile (if needed)
 
+### Restart the Astro environment
+
+```
+astro dev restart
+```
